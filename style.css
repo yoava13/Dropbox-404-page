@@ -1,0 +1,56 @@
+.main{
+    display: inline;
+    height: 50%;
+    width: 100%;
+
+}
+
+.main-pic{
+text-align: center;
+
+}
+
+
+.main-pic-1{
+    height: 300px;
+    width: 300px;
+    
+}
+
+.footer-text{
+    text-align: center;
+}
+
+.footer-h{
+    color: rgba(0,0,0,0.75);
+    font-size: 38px;
+    font-weight: lighter;
+    line-height: 47px;
+    font-family: "Open Sans","lucida grande","Segoe UI",arial,verdana,"lucida sans unicode",tahoma,sans-serif;
+}
+
+.footer-p{
+    color: rgba(0,0,0,0.75);
+    font-size: 21px;
+    font-weight: lighter;
+    line-height: 36px;
+    text-align: center;
+    font-family: "Open Sans","lucida grande","Segoe UI",arial,verdana,"lucida sans unicode",tahoma,sans-serif;
+}
+.footer-links{
+    text-align: center;
+    height: 40%;
+}
+
+
+.footer-links-p{
+    color: rgba(0,0,0,0.75);
+    text-align: center;
+    font-family:"Open Sans","lucida grande","Segoe UI",arial,verdana,"lucida sans unicode",tahoma,sans-serif;
+}
+
+.actual-footer-links{
+    color: #005ff8;
+    text-decoration: none;
+    font-family:"Open Sans","lucida grande","Segoe UI",arial,verdana,"lucida sans unicode",tahoma,sans-serif ;
+}
