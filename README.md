@@ -1,6 +1,6 @@
 # index.html
 
-All htmal data
+All html data
 
 # style.css
 
